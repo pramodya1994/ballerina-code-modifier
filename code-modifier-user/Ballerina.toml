@@ -1,11 +1,2 @@
 [package]
 distribution = "2201.0.2-SNAPSHOT"
-
-# [[dependency]]
-# org="pramodya"
-# name="code_modify_function_adder"
-# version="0.2.1"
-# repository="local"
-
-[build-options]
-observabilityIncluded = true
